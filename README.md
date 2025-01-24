@@ -1,5 +1,7 @@
 # DisguisePro
-<img src="icon.png" style="width:300px">
+<img src="icon.png" width="300px" height="300px">
 
-##Simple User Agent Switcher Plugin
+## Description
+
+Simple User Agent Switcher Plugin
 
